@@ -1,0 +1,6 @@
+{
+  "name": "ArticuLearn - Child Speech Clarity & Pronunciation Platform",
+  "description": "An educational speech-learning platform for children, featuring smart speech capture, phoneme-first acoustic analysis, adaptive practice ladders, and clinical progress tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
